@@ -1,0 +1,13 @@
+{
+	"type": "service_account",
+	"project_id": "synced-rooms",
+	"private_key_id": "e3310df4b405b357b1cbdbc4fa6d4efe3215f31d",
+	"private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLsrYdf8oGQvqy\njrKUtJN0rdv1/H1dAhdL4rZqL4DpQhamSkA++0SAP/0UgYuOXk5zPJH3EzTzKEmY\nRwYa8kC1zFwxArWifl8peSdg2bQtXDTMAKrnwDGlkkwge9UanpbITPvnHGhfVKNH\nXqGvWkDtCRDNYZOlSAJbVkJ7mWqr4B7Q0xtDmY6U+6I3B5t03TExparBebu4TYkR\nnLQhFgoA+aXj4hcYfl9yEV7bR1dc/3PblBzVRYMvVZaOJuWGmxGG0rcngl5lUR+5\nF+OmNroJP6/rAd4VxkmhvRtlZuzmBZhHV7gAHvlkSoas2FZJf0l98axFYAFrUC62\nDHeSuDkRAgMBAAECggEAMOZXKj9Lm+KBN9SMfVIyVYLwPoxp448yUW1kFgpX0Q7B\nt+bA02sIAO6lK7LnA2hOhLb8jySpgb4l+MhPwknvTdPhp4Q/yUf8DpvqpVO/Zqti\njdBkAqh7mG37+Njv8Rf3RtjvymfevxP07awZ47QviumD+KiB0rbAoHEy52n99XiD\nSTw+BqGCUp/ovm7styivG3wPdT2mzA/a95M0G0XSaI0afE5AiYm1QFkUbPPolgZ4\nuaYREowq4yRm8dPo87X/uXYmn1gbSf0BpsNg7AqmAZwDB39eVtMVvJDCfv4jn3EG\n73+axcnIonCjObVn8E9NYrlfMfHsO9LYhC/dBlpMAwKBgQDDhWsEjwRpA31Uc7nt\n/mzDV922h9U4rC/YS3rRrO0H+SqnAjtPhru6caG+3ZjlNHl34PdpHbhxOw64NfP1\nH0+nvs6fMTxWk2anahx4/L1Yb6J25k43TrS+VGkiP85SYAoCbvniBW92iV+FDhYB\n3iUsQ7BNy5n9JglRgIPnCjsyDwKBgQC26OANymBXaO09Z7YpFaC09LZRPuoHQqfG\ngenkCHZplD+PIhlxcyXKrjMOBuJWFQy8VJ09o54sKIs1BwWyNhrcG9tzUsJh/HDS\nIeA4J+iEJubiPOmNf+gQeE1zLqOjjOOBQvWzJYw/pU+tmn08PBb0jqOdz/YIfd1g\nglVHloSC3wKBgQCWd19zY6iuNDxIOMM2j10eO8lpRkFl2sT7PKMpJ15Gi48ydXo1\namegRQCHxTt78JUmF1/vaireIOfkBclXs5/2ZNXYFujra4ZNglClH0OMAmVSAUzi\nLVTVQFqkO9xI8pXhZ4wwT6SG4ZM77yoqh82tse3FANHhylrTeQaJUAtcKwKBgFnR\nZSSgekqyFb2Pjh4CptX1TQn8cQN7sdOCvA3kMfGKgOOShRf2yVoLzLpYmxBWadiZ\nXFWGYQeiKSmy9xMaCnqHm223+AgR5HzrcaVhw4YRbFMwQiff5V8hFDc5cdXAO3+g\nF/MOvx4J2WSQdmr7vvH8kU/PbSuiUvEvTx1GRm/VAoGAfITd/9Z/SH8WGivUnFMP\nmSTaDoXpWpa2yVMJXiJSjQ0Opdeg/3Cr3jnqoGcOJhoWKQlMkvQ+atqQqhpdm01V\nWZtK0a1oHQNnrAPRQMNb9tjh+lLJ7OOl15Pafp0RwYYv22efS2IG+Av5ieWk0tro\ndQ0TbOr+MgGzFNf8og6k/Gs=\n-----END PRIVATE KEY-----\n",
+	"client_email": "firebase-adminsdk-od1ys@synced-rooms.iam.gserviceaccount.com",
+	"client_id": "102640091545238826328",
+	"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+	"token_uri": "https://oauth2.googleapis.com/token",
+	"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+	"client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-od1ys%40synced-rooms.iam.gserviceaccount.com",
+	"universe_domain": "googleapis.com"
+}
