@@ -1,5 +1,7 @@
 # Synced Room
 
+Remove login page
+
 A pilot project for timers for rooms controlled by 1 admin and multiple rooms.
 
 ## TODO
