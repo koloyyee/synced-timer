@@ -79,7 +79,7 @@
 				<div class="flex-none hidden lg:block">
 					<ul class="menu menu-horizontal">
 						<!-- Navbar menu content here -->
-						{#if $authUser}
+						<!-- {#if $authUser} -->
 							<!-- <li>
 								<a
 									href="/protected/admin"
@@ -95,11 +95,11 @@
 								>
 							</li> -->
 
-							<li>
-								<button class="hover:underline" on:click={handleLogout}>Logout</button>
-							</li>
-						{:else if $page.url.pathname.includes('/protected')}
-							<li>
+							<!-- <li> -->
+								<!-- <button class="hover:underline" on:click={handleLogout}>Logout</button> -->
+							<!-- </li> -->
+						<!-- {:else if $page.url.pathname.includes('/protected')} -->
+							<!-- <li>
 								<a href="/" class="hover:underline" class:active={$page.url.pathname === '/'}
 									>Home</a
 								>
@@ -111,8 +111,8 @@
 									class="hover:underline"
 									class:active={$page.url.pathname === '/login'}>Login</a
 								>
-							</li>
-						{:else}
+							</li> -->
+						<!-- {:else} -->
 							<li>
 								<a
 									href="/rooms"
@@ -120,7 +120,7 @@
 									class:active={$page.url.pathname === '/rooms'}>Rooms</a
 								>
 							</li>
-						{/if}
+						<!-- {/if} -->
 					</ul>
 				</div>
 			</div>

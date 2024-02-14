@@ -6,7 +6,9 @@
 	const pages = [
 		{
 			title: 'Admin',
-			href: '/login'
+			// href: '/login'
+			href: '/protected/admin/bookings'
+
 		},
 		{
 			title: 'Rooms',
